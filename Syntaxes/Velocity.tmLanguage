@@ -768,7 +768,7 @@
 					<key>match</key>
 					<string>\b(set|parse|cparse|config|include|cinclude)\b</string>
 					<key>name</key>
-					<string>keyword.velocity</string>
+					<string>keyword.other.velocity</string>
 				</dict>
 			</array>
 		</dict>
